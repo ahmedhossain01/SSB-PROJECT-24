@@ -1,0 +1,510 @@
+/* Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+
+/*header start*/
+.logo {
+    width: 50%;
+}
+.btn_cm {
+    margin-left: 5px;
+}
+.coll_btn{
+	font-size: 15px;
+}
+/*banner start*/
+.slider {
+    padding: 80px 0 80px;
+}
+.slider h1 {
+    font-size: 35px;
+    line-height: 1;
+}
+.slider p {
+    margin: 17px 0 25px;
+    padding-right: 20px;
+}
+.slider a {
+    padding: 2px 7px;
+}
+.btn_acm span {
+    margin-left: 8px;
+}
+/*service start*/
+.c_pad{
+    padding-bottom: 60px;
+}
+.c_h1 {
+    font-size: 25px;
+}
+.s_p {
+    margin-bottom: 45px;
+}
+.c_service {
+    margin: 0 0 40px;
+}
+.c_icon {
+    margin: -22px auto 20px;
+}
+.c_service p {
+    margin: 20px 0 30px;
+}
+.s_sm{
+    margin-bottom: 0;
+}
+/*about start*/
+.about{
+    padding-bottom: 60px;
+}
+.ab_img {
+    margin-bottom: 30px;
+    padding: 0 0;
+}
+.ab_text {
+    text-align: center;
+}
+.ab_text h1 {
+    font-size: 27px;
+}
+.c_p {
+    margin: 20px 0 20px;
+}
+.btn_com {
+    margin-top: 30px;
+    padding: 3px 10px;
+}
+.btn_com span {
+    margin-left: 10px;
+}
+/*portfolio start*/
+.p_btn{
+    padding: 5px 7px;
+}
+.p_item {
+    padding: 0;
+}
+/*why item start*/
+.w_h1 {
+    margin-bottom: 15px;
+}
+.why_item span i {
+    font-size: 44px;
+}
+.why_item {
+    margin-top: 30px;
+    padding-bottom: 20px;
+}
+.why_item p {
+    margin-top: 20px;
+}
+/*team start*/
+.t_h1 {
+    margin-bottom: 10px;
+}
+.t_item {
+    margin-top: 30px;
+    padding: 0 10px;
+}
+/*price start*/
+.pri_item {
+    margin: 30px 10px 0;
+    padding: 35px 20px 25px 20px;
+}
+.pri_item p {
+    margin-bottom: 15px;
+}
+.pri_head {
+    margin-bottom: 20px;
+}
+.pri_head h2 {
+    font-size: 32px;
+}
+.pri_btn {
+    padding: 5px 20px;
+}
+/*cta start*/
+.cta {
+    padding: 20px 0;
+}
+.c_right{
+    text-align: center;
+}
+.cta_left{
+    text-align: center;
+}
+.cta_btn {
+    margin-top: 20px;
+}
+
+}
+
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+/*header start*/
+.logo {
+    width: 40%;
+}
+.btn_cm {
+    margin-left: 5px;
+}
+/*banner start*/
+.slider {
+    padding: 110px 0 100px;
+}
+.slider h1 {
+    font-size: 35px;
+}
+.slider p {
+    margin: 25px 0;
+    padding-right: 180px;
+}
+.slider a {
+    padding: 5px 10px;
+}
+.btn_acm span {
+    margin-left: 10px;
+}
+/*service start*/
+.c_pad{
+    padding-bottom: 60px;
+}
+.c_h1 {
+    font-size: 27px;
+}
+.s_p {
+    margin-bottom: 45px;
+}
+.c_service {
+    margin: 0 120px 40px;
+}
+.c_icon {
+    margin: -22px auto 20px;
+}
+.c_service p {
+    margin: 20px 0 30px;
+}
+.s_sm{
+    margin-bottom: 0;
+}
+
+/*about start*/
+.about{
+    padding-bottom: 60px;
+}
+.ab_img {
+    margin-bottom: 30px;
+    padding: 0 80px;
+}
+.ab_text {
+    text-align: center;
+}
+.ab_text h1 {
+    font-size: 27px;
+}
+.c_p {
+    margin: 20px 0 20px;
+}
+.btn_com {
+    margin-top: 30px;
+    padding: 3px 10px;
+}
+.btn_com span {
+    margin-left: 10px;
+}
+/*portfolio start*/
+.pt_content{
+    margin-top: 60px;   
+}
+.p_btn{
+    padding: 5px 7px;
+}
+.p_item {
+    padding: 0 80px;
+}
+/*why item start*/
+.w_h1 {
+    margin-bottom: 15px;
+}
+.why_item span i {
+    font-size: 44px;
+}
+.why_item {
+    margin-top: 30px;
+    padding-bottom: 30px;
+}
+.why_item p {
+    margin-top: 20px;
+}
+/*team start*/
+.t_h1 {
+    margin-bottom: 10px;
+}
+.t_item {
+    margin-top: 30px;
+    padding: 0 100px;
+}
+/*price start*/
+.pri_item {
+    margin: 30px 130px 0;
+    padding: 35px 20px 25px 20px;
+}
+.pri_item p {
+    margin-bottom: 15px;
+}
+.pri_head {
+    margin-bottom: 20px;
+}
+.pri_head h2 {
+    font-size: 32px;
+}
+.pri_btn {
+    padding: 5px 15px;
+}
+/*cta start*/
+.cta {
+    padding: 20px 0;
+}
+.c_right{
+    text-align: center;
+}
+.cta_left{
+    text-align: center;
+}
+
+}
+
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+/*header start*/
+.btn_cm {
+    margin-left: 5px;
+}
+/*banner start*/
+.slider {
+    padding: 150px 0 150px;
+}
+.slider h1 {
+    font-size: 50px;
+}
+.slider p {
+    margin: 30px 0;
+    padding-right: 40px;
+}
+.slider a {
+    padding: 8px 15px;
+}
+/*service start*/
+.c_pad{
+    padding-bottom: 80px;
+}
+.c_service {
+    padding: 0 16px 30px;
+}
+.c_icon {
+    margin: -22px auto 20px;
+}
+.s_p {
+    margin-bottom: 65px;
+}
+.s_md {
+    margin-top: 50px;
+}
+/*about start*/
+.about{
+    padding-bottom: 80px;
+}
+.ab_img {
+    padding: 0 130px 40px;
+}
+.ab_text {
+    text-align: center;
+}
+.c_p {
+    margin: 30px 0 30px;
+}
+.btn_com {
+    padding: 5px 15px;
+}
+.btn_com span {
+    margin-left: 10px;
+}
+/*portfolio start*/
+.pt_content{
+    margin-top: 80px;   
+}
+.p_btn {
+    padding: 5px 10px;
+}
+/*why choose nipro start*/
+.w_h1{
+    margin-bottom: 40px;
+}
+.why_item p {
+    margin-top: 30px;
+}
+/*team start*/
+.t_h1 {
+    margin-bottom: 20px;
+}
+.t_item {
+    margin-top: 30px;
+}
+/*price start*/
+.pri_item {
+    margin-top: 40px;
+    padding: 40px 20px 30px 20px;
+}
+.pri_head h2 {
+    font-size: 33px;
+}
+.pri_head {
+    margin-bottom: 25px;
+}
+.pri_item p {
+    margin-bottom: 20px;
+}
+.pri_btn{
+    margin-top: 30px;
+    padding: 7px 20px;
+}
+
+}
+
+/* Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+/*banner start*/
+.slider p{
+    padding-right: 70px;
+}
+/*service start*/
+.s_p {
+    margin-bottom: 75px;
+}
+.c_service {
+    padding: 0 16px 20px;
+}
+.c_icon {
+    margin: -22px auto 20px;
+}
+.c_service h2 {
+    margin-bottom: 15px;
+}
+.c_service p {
+    margin: 15px 0 20px;
+    line-height: 22px;
+}
+
+/*about start*/
+.ab_text {
+    margin-left: 40px;
+}
+.ab_text h1 {
+    font-size: 28px;
+}
+.c_p {
+    margin: 20px 0 25px;
+}
+.ab_text p{
+    font-size: 15px;
+}
+.btn_com {
+    margin-top: 25px;
+    padding: 8px 30px;
+    font-size: 15px;
+}
+/*team start*/
+.t_text {
+    padding: 12px 12px 10px;
+}
+.t_text h2 {
+    font-size: 17px;
+}
+/*price start*/
+.pri_item {
+    padding: 50px 10px 30px 20px;
+}
+.pri_head {
+    margin-bottom: 30px;
+}
+.pri_item p {
+    margin-bottom: 20px;
+}
+.pri_btn {
+    padding: 7px 20px;
+}
+/*cta start*/
+.cta_btn{
+    margin-top: 0;
+}
+
+}
+
+/* Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+
+/*banner start*/
+.slider p {
+    padding-right: 110px;
+}
+/*service start*/
+.s_p {
+    margin-bottom: 75px;
+}
+.c_service {
+    padding: 0 16px 30px;
+}
+.c_icon {
+    margin: -22px auto 20px;
+}
+/*about start*/
+.ab_text {
+    margin-left: 50px;
+}
+.c_p {
+    margin: 20px 0 25px;
+}
+.btn_com {
+    margin-top: 25px;
+}
+/*team start*/
+.t_text {
+    padding: 15px 20px 15px;
+}
+/*price start*/
+.pri_btn {
+    padding: 10px 30px;
+}
+.cta_btn{
+    margin-top: 0;
+}
+
+}
+
+/* Extra extra large devices (large desktops, 1400px and up)*/
+@media (min-width: 1400px) {
+/*banner start*/
+.banner{
+	background-position: bottom;
+}
+.slider p {
+    padding-right: 230px;
+}
+/*service start*/
+.s_p {
+    margin-bottom: 75px;
+}
+/*about start*/
+.ab_text {
+    margin-left: 50px;
+}
+/*price start*/
+.pri_btn{
+    padding: 10px 40px;
+}
+/*cta start*/
+.cta_btn{
+    margin-top: 0;
+}
+
+} 
